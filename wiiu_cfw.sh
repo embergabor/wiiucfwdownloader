@@ -14,7 +14,7 @@ extractFiles(){
     unzip -q -o download/haxchi.zip -d sdcard
   else
     unzip -q -o download/mocha.zip -d sdcard
-    copy download/config.ini sdcard/wiiu/apps/mocha/
+    cp download/config.ini sdcard/wiiu/apps/mocha/
   fi
 }
 
