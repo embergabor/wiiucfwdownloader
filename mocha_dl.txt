@@ -1,0 +1,8 @@
+https://wiiu.hacks.guide/docs/files/config.ini
+https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip
+https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip
+http://wiiubru.com/appstore/zips/wup_installer_gx2.zip
+https://github.com/koolkdev/wiiu-nanddumper/releases/download/v0.3/nanddumper.zip
+https://github.com/fortheusers/hb-appstore/releases/download/2.2/wiiu-extracttosd.zip
+https://www.wiiubru.com/appstore/zips/mocha.zip
+https://wiiu.hacks.guide/docs/files/SaveMii_Mod.zip
